@@ -14,7 +14,7 @@
 <br>
 <br>
 
-## Note: You ae to create a private repository on Github to host all the source files for this repository and send an invite to @kojoyeboah53i on completion
+## Note: You are to create a private repository on Github to host all the source files for this repository and send an invite to @kojoyeboah53i on completion
 
 - You can find instructions on creating a Github repository here
 
